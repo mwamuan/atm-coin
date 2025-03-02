@@ -1,0 +1,104 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>ATM Meme Coin</title>
+    <style>
+        body {
+            background-color: #121212;
+            color: #fff;
+            font-family: Arial, sans-serif;
+            text-align: center;
+            margin: 0;
+            padding: 0;
+        }
+        .header {
+            padding: 20px;
+            font-size: 28px;
+            font-weight: bold;
+            background: linear-gradient(90deg, #ff00ff, #00ffff);
+            -webkit-background-clip: text;
+            -webkit-text-fill-color: transparent;
+        }
+        .container {
+            padding: 20px;
+        }
+        .button {
+            background: #ff00ff;
+            color: #fff;
+            padding: 15px 25px;
+            font-size: 18px;
+            text-decoration: none;
+            border-radius: 8px;
+            display: inline-block;
+            margin: 10px;
+            transition: 0.3s;
+        }
+        .button:hover {
+            background: #00ffff;
+        }
+        .card {
+            background: rgba(255, 255, 255, 0.1);
+            padding: 20px;
+            border-radius: 10px;
+            margin: 20px;
+            display: inline-block;
+            width: 280px;
+        }
+        .footer {
+            margin-top: 50px;
+            padding: 20px;
+            background: #222;
+        }
+    </style>
+</head>
+<body>
+
+    <div class="header">🚀 Welcome to ATM – The Ultimate Meme Coin!</div>
+
+    <div class="container">
+        <h2>🔥 The Coin That Makes ATMs Print Gains! 🔥</h2>
+        <a href="#" class="button">💰 Buy ATM on Raydium</a>
+        <a href="#" class="button">🌎 Join Telegram</a>
+        <p>Market Cap: $XXX,XXX | Liquidity: Locked ✅</p>
+    </div>
+
+    <div class="container">
+        <h2>📜 Tokenomics</h2>
+        <div class="card">
+            <h3>Total Supply</h3>
+            <p>1,000,000,000,000 ATM</p>
+        </div>
+        <div class="card">
+            <h3>Burned Tokens</h3>
+            <p>XX% Burned 🔥</p>
+        </div>
+        <div class="card">
+            <h3>Buy/Sell Tax</h3>
+            <p>0% Buy | 5% Sell</p>
+        </div>
+    </div>
+
+    <div class="container">
+        <h2>🚀 Roadmap</h2>
+        <p>✅ Phase 1: Launch Website & Socials</p>
+        <p>🔜 Phase 2: DEX Listings & Marketing</p>
+        <p>🔜 Phase 3: NFT & Staking</p>
+    </div>
+
+    <div class="container">
+        <h2>🛒 How to Buy ATM</h2>
+        <p>1️⃣ Install Phantom Wallet</p>
+        <p>2️⃣ Buy SOL on an Exchange</p>
+        <p>3️⃣ Swap SOL for ATM on Raydium</p>
+        <p>4️⃣ Join Our Community & HODL 🚀</p>
+    </div>
+
+    <div class="footer">
+        <p>📢 Follow Us: <a href="#">Twitter</a> | <a href="#">Telegram</a> | <a href="#">Discord</a></p>
+        <p>⚠️ Disclaimer: ATM is a meme coin for fun, not financial advice!</p>
+    </div>
+
+</body>
+</html>
